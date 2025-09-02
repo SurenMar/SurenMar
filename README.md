@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Suren.</h1>
-<h3 align="center">I'm a Computer Science student at UWaterloo.</h3>
+<h3 align="center">I'm a CS student at UWaterloo.</h3>
 
 - 🔭 I’m currently working on a **tool** for **UWaterloo CS students.**
 
