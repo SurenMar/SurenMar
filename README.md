@@ -4,8 +4,6 @@
 - I am currently working at [Qorsa](https://qorsa.com) as a backend developer.
 
 - I have recently built [UWPathr](https://github.com/SurenMar/uwpathr), an open source web app to help UW CS students plan their degree.
-
-- I have previously built [Travel Breeze](https://github.com/SurenMar/travel-breeze), a tool to help travelling bikers pick good biking locations.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
