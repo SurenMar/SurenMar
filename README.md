@@ -1,9 +1,11 @@
 <h1 align="center">Hey, I'm Suren</h1>
-<h3 align="center">I'm a CS student from the University of Waterloo interested in backend web development.</h3>
+<h3 align="center">I'm a CS student from the University of Waterloo interested in backend development.</h3>
 
-- 🔭 I have recently built and currently working on [UWPathr](https://github.com/SurenMar/uwpathr), an open source web app to help UW CS students plan their degree.
+- I am currently working at [Qorsa](https://qorsa.com) as a backend developer.
 
-- 🚴 I have previously built [Travel Breeze](https://github.com/SurenMar/travel-breeze), a tool to help travelling bikers pick good biking locations.
+- I have recently built [UWPathr](https://github.com/SurenMar/uwpathr), an open source web app to help UW CS students plan their degree.
+
+- I have previously built [Travel Breeze](https://github.com/SurenMar/travel-breeze), a tool to help travelling bikers pick good biking locations.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
