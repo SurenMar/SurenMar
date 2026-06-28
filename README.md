@@ -3,6 +3,8 @@
 
 - I am currently working at [Qorsa](https://qorsa.com) as a backend developer.
 
+- I am currently working on a tool to optomize token and context usage for coding agents.
+
 - I have recently built [UWPathr](https://github.com/SurenMar/uwpathr), an open source web app to help UW CS students plan their degree.
 </p>
 
